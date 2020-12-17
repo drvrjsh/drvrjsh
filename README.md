@@ -1,5 +1,5 @@
 <h1> About Me </h1>
-CompSci enthusiast, engineer, and inspirer
+CompSci Enthusiast | Engineer | Inspirer
 
 <h4> Working On </h4>
 
