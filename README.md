@@ -6,6 +6,8 @@
 
 Developer with a dream, a belief in open-source, and a love for Python.
 
+Banner designed by me - if you want to use this template or the one on my YouTube channel, please email me.
+
 <h4> Working On </h4>
 
 - Dirview, a directory manager built within a CLI
