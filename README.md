@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img alt="banner" src="/github_banner (1).png">
+</p>
 
 <h1> About Me </h1>
 Developer with a dream, a belief in open-source, and a love for Python.
