@@ -1,9 +1,8 @@
-<h1> Dhruv Rajesh (@drv-rajesh) </h1>
+<h1> Dhruv Rajesh </h1>
 
 <p align="center">
   <img alt="banner" src="/gbanner.png">
 </p>
-
 
 Developer with a dream, a belief in open-source, and a love for Python.
 
