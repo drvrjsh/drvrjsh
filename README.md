@@ -28,9 +28,10 @@
 <h2> Connect With Me </h2>
 
 <ul>
+  <li> <a href="mailto:drv.rajesh98@gmail.com"> Email </a> </li>
   <li> <a href="https://twitter.com/DhruvDev98"> Twitter </a> </li>
   <li> <a href="https://www.youtube.com/channel/UC8ur-GniTamK9hmb6dXBrpQ"> YouTube </a> </li>
   <li> <a href="https://drvrajesh.medium.com"> Medium </a> </li>
 </ul>
 
-Feel free to email me (email is on my profile) for inquiries or if you just want to start a convo 🥳!
+Feel free to contact me for inquiries or if you just want to start a convo 🥳!
