@@ -1,4 +1,4 @@
-<h1> Dhruv Rajesh </h1>
+<h1> Dhruv Rajesh (@drv-rajesh) </h1>
 
 <p align="center">
   <img alt="banner" src="/gbanner.png">
