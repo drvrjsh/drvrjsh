@@ -1,9 +1,12 @@
 <h1> Dhruv Rajesh </h1>
 
+
 <p align="center">
   <img alt="banner" src="/gbanner.png">
 </p>
 <sup> Banner designed by me - if you want to use this template or the one on my YouTube channel, please email me. </sup>
+
+<hr>
 
 Developer with a dream, a belief in open-source, and a love for Python.
 
