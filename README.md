@@ -34,4 +34,4 @@
   <li> <a href="https://drvrajesh.medium.com"> Medium </a> </li>
 </ul>
 
-Feel free to contact me for inquiries or if you just want to start a convo 🥳!
+Feel free to contact me for inquiries or if you just want to start a convo 🥳
