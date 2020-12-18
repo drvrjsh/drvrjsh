@@ -18,7 +18,7 @@
 
 <!--Projects-->
 <h2> Projects & Work </h2>
-<p> One of my recent, most notable creations would be a URL Shortener using Python - which I also did a demo and explanation of on my YouTube channel. I am currently working on "Dirview" (a file manager), a <b> MASSIVE </b> project that will use basically all the skills I've learned so far. Aside from that, my portfolio is constantly being developed, along with a personal website, just so that things can get a little more organized. </p> 
+<p> One of my recent, most notable creations would be a URL Shortener using Python - which I also did a demo and explanation of on my YouTube channel. I am currently working on "Dirview" (a file manager), a <b> MASSIVE </b> project that will use basically all the skills I've learned so far. Aside from that, my portfolio is constantly being developed, along with a personal website, just so that things can get a little bit more organized. </p> 
 
 <p> Most of my projects are licensed under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"> GNU GPL License v3.0 </a>, meaning that closed-source version distribution is PROHIBITED. I would also prefer if you would email me prior to making a remake, modifying or distributing my projects for external usage. </p>
 
