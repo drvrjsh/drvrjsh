@@ -8,18 +8,19 @@
 
 <hr>
 
-<!--About Me -->
+<!--About Me-->
 <h2> My Journey </h2>
 <p> <i> Some may know me as a developer with a dream, a belief in open-source, and a love for Python - but that is just the tip of the iceberg. </i> </p>
   
 <p> My coding passion was invigorated by robotics and engineering - I got my hands on the rPI and the Arduino, which exposed me to the whole principle of having this interface known as an IDE, where you could write stuff and have an output. I then shifted focus to using those IDEs not to interface with GPIO and hardware, but to perform boring tasks such as email sending and more, which is where I first got my hands on the love of my life - Python. After coding various projects, I moved on to learning JS through Minecraft modding, and learning Lua through Roblox Studio. This game development passion stuck with me for a while, until Python started taking over the developer field. Because of this, I shifted my focus back to Python and learned from various different courses - and to this day, this is my favourite programming language and the programming language I have the most experience in. </p>
 
-<h4> Working On </h4>
+<!--Socials-->
+<h2> Connect With Me </h2>
 
-- Dirview, a directory manager built within a CLI
-- Rucube, a rubix cube visualizer using Python
-- My portfolio website
-
-<hr>
+<ul>
+  <li> <a href="https://twitter.com/DhruvDev98"> Twitter </a> </li>
+  <li> <a href="https://www.youtube.com/channel/UC8ur-GniTamK9hmb6dXBrpQ"> YouTube </a> </li>
+  <li> <a href="https://drvrajesh.medium.com"> Medium </a> </li>
+</ul>
 
 Feel free to email me for inquiries or if you just want to start a convo 🥳
