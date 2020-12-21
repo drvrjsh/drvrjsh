@@ -16,4 +16,4 @@
 
 <!--About Me-->
 <h2> My Projects </h2>
-<p> Scroll down to the pinned section below to check out my top contributions on GitHub, go to the "Repositories" tab to see all my public works, and go to my <a href="https://drv-rajesh.github.io"> website to see all my projects. </a> </p>
+<p> Scroll down to the pinned section below to check out my top contributions on GitHub, go to the "Repositories" tab to see all my public works, and go to my <a href="https://drv-rajesh.github.io"> website </a> to check out all my projects. </p>
