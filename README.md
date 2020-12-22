@@ -8,12 +8,4 @@
 
 <hr>
 
-<!--About Me-->
-<h2> About Me </h2>
-<p> I know plenty a fact - apparently the largest countable number is a googolplex, and your brain's fusiform gyrus is used for facial recognition - and I love reading stacks of quotes - "Technology is a useful servant but a dangerous master" or "The way I see it, if you want the rainbow, you gotta put up with the rain" - but most importantly, I am a full-stack developer who loves learning something new everyday. </p>
-
-<hr>
-
-<!--About Me-->
-<h2> My Projects </h2>
-<p> Scroll down to the pinned section below to check out my top contributions on GitHub, go to the "Repositories" tab to see all my public works, and go to my <a href="https://drv-rajesh.github.io"> website </a> to check out all my projects. </p>
+<p> This is currently in development. </p>
