@@ -19,12 +19,3 @@
   <li> Portfolio Website - constantly updating and making fixes. </li>
 </ul>
 
-<h2> Preferred Languages </h2>
-<p>
-  <a href="https://drv-rajesh.github.io/projects/python"> <img src="/assets/python_icon.png" width="30" height="30" class="custom-img"> </a>
-  <a href="https://drv-rajesh.github.io/projects/htmlfive"> <img src="/assets/html_icon.png" width="30" height="30" class="custom-img"> </a>
-  <a href="https://drv-rajesh.github.io/projects/java"> <img src="/assets/java_icon.png" width="30" height="30" class="custom-img"> </a>
-  <a href="https://drv-rajesh.github.io/projects/lua"> <img src="/assets/lua_icon.png" width="30" height="30" class="custom-img"> </a>
-  <a href="https://drv-rajesh.github.io/projects/other"> <img src="/assets/other_icon.png" width="30" height="30" class="custom-img"> </a>
-</p>
-
