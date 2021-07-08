@@ -30,6 +30,6 @@ Coding Environment
   
   * Refactoring/Helpers:
   
-    * Sourcery
-    * IntelliCode
-    * Pylance
+   * Sourcery
+   * IntelliCode
+   * Pylance
