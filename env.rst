@@ -33,4 +33,4 @@ Coding Environment
     * Sourcery
     * IntelliCode
     * Pylance
-* Terminal: Hyper, ptpython REPL
+* Terminal: Hyper, REPL: ptpython
