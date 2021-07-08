@@ -16,8 +16,20 @@ Coding Environment
     * Flake8 Isort
     
 * Extension(s):
-
-  * Bearded Theme 4.0.0
-  * Bracket Pair Colorizer 2 0.2.1
-  * Error Lens 3.3.0
-  * Indent-rainbow 7.5.0
+  
+  * Theme(s):
+  
+   * Bearded Theme 4.0.0
+   * Material Icon Theme 4.8.0
+   
+  * Cosmetic:
+  
+   * Bracket Pair Colorizer 2 0.2.1
+   * Error Lens 3.3.0
+   * Indent-rainbow 7.5.0
+  
+  * Refactoring/Helpers:
+  
+    * Sourcery
+    * IntelliCode
+    * Pylance
