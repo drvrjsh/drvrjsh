@@ -19,17 +19,17 @@ Coding Environment
   
   * Theme(s):
   
-   * Bearded Theme 4.0.0
-   * Material Icon Theme 4.8.0
+    * Bearded Theme
+    * Material Icon Theme 
    
   * Cosmetic:
   
-   * Bracket Pair Colorizer 2 0.2.1
-   * Error Lens 3.3.0
-   * Indent-rainbow 7.5.0
+    * Bracket Pair Colorizer
+    * Error Lens 
+    * Indent-rainbow
   
   * Refactoring/Helpers:
   
-   * Sourcery
-   * IntelliCode
-   * Pylance
+    * Sourcery
+    * IntelliCode
+    * Pylance
