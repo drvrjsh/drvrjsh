@@ -1,1 +1,1 @@
-<h1> Dhruv Rajesh </h1>
+<img src="/assets/bg.jpg"> </img>
