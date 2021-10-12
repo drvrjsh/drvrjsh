@@ -1,1 +1,1 @@
-<img src="/assets/bg.jpg"> </img>
+<img src="/bg.jpg"> </img>
